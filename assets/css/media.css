@@ -181,7 +181,7 @@
   }
 }
 
-@media (max-width:576px){
+/* @media (max-width:576px){
   .container {
     max-width: 540px;
   }
@@ -232,11 +232,11 @@
     width: 100%;
     margin: 0 10px;
   }
-}
+} */
 
-@media (max-width: 400px) {
+@media (max-width: 576px) {
   .container {
-    max-width: 380px;
+    max-width: 540px;
   }
   .header-inner .header-col-1 a img {
     width: 70%;
