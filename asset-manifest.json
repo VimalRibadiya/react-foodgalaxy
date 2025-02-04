@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-foodgalaxy/static/js/main.e228107f.js",
+    "main.js": "/react-foodgalaxy/static/js/main.f50774c1.js",
     "index.html": "/react-foodgalaxy/index.html",
-    "main.e228107f.js.map": "/react-foodgalaxy/static/js/main.e228107f.js.map"
+    "main.f50774c1.js.map": "/react-foodgalaxy/static/js/main.f50774c1.js.map"
   },
   "entrypoints": [
-    "static/js/main.e228107f.js"
+    "static/js/main.f50774c1.js"
   ]
 }
