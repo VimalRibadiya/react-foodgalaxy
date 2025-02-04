@@ -15,7 +15,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu1.jpg" alt="menu1" />
+                    <img src="/react-foodgalaxy/assets/images/menu1.jpg" alt="menu1" />
                   </div>
                   <div className="menu-content">
                     <h3>Burgers</h3>
@@ -26,7 +26,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu2.jpg" alt="menu2" />
+                    <img src="/react-foodgalaxy/assets/images/menu2.jpg" alt="menu2" />
                   </div>
                   <div className="menu-content">
                     <h3>Pizza</h3>
@@ -37,7 +37,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu3.jpg" alt="menu3" />
+                    <img src="/react-foodgalaxy/assets/images/menu3.jpg" alt="menu3" />
                   </div>
                   <div className="menu-content">
                     <h3>Chicken</h3>
@@ -48,7 +48,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu4.jpg" alt="menu4" />
+                    <img src="/react-foodgalaxy/assets/images/menu4.jpg" alt="menu4" />
                   </div>
                   <div className="menu-content">
                     <h3>Breads</h3>
@@ -61,7 +61,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu5.jpg" alt="menu5" />
+                    <img src="/react-foodgalaxy/assets/images/menu5.jpg" alt="menu5" />
                   </div>
                   <div className="menu-content">
                     <h3>Drinks</h3>
@@ -72,7 +72,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu6.jpg" alt="menu6" />
+                    <img src="/react-foodgalaxy/assets/images/menu6.jpg" alt="menu6" />
                   </div>
                   <div className="menu-content">
                     <h3>Pasta</h3>
@@ -83,7 +83,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu7.jpg" alt="menu7" />
+                    <img src="/react-foodgalaxy/assets/images/menu7.jpg" alt="menu7" />
                   </div>
                   <div className="menu-content">
                     <h3>Soup</h3>
@@ -94,7 +94,7 @@ const Product_menu = () => {
               <div className="col">
                 <div className="item">
                   <div className="foodimg">
-                    <img src="/assets/images/menu8.jpg" alt="menu8" />
+                    <img src="/react-foodgalaxy/assets/images/menu8.jpg" alt="menu8" />
                   </div>
                   <div className="menu-content">
                     <h3>Deserts</h3>

@@ -9,25 +9,25 @@ const Deliver_area = () => {
           <div className="deliver-inner">
             <div className="deliver-shap1">
               <img
-                src="/assets/images/deliver-shape1.png"
+                src="/react-foodgalaxy/assets/images/deliver-shape1.png"
                 alt="deliver-shape1"
               />
             </div>
             <div className="deliver-shap2">
               <img
-                src="/assets/images/deliver-shape2.png"
+                src="/react-foodgalaxy/assets/images/deliver-shape2.png"
                 alt="deliver-shape2"
               />
             </div>
             <div className="deliver-shap3">
               <img
-                src="/assets/images/deliver-shape3.png"
+                src="/react-foodgalaxy/assets/images/deliver-shape3.png"
                 alt="deliver-shape3"
               />
             </div>
             <div className="deliver-shap4">
               <img
-                src="/assets/images/deliver-shape4.png"
+                src="/react-foodgalaxy/assets/images/deliver-shape4.png"
                 alt="deliver-shape4"
               />
             </div>
@@ -42,7 +42,7 @@ const Deliver_area = () => {
             </div>
             <div className="imgnoodles">
               <img
-                src="/assets/images/Food-Resturant-1.png"
+                src="/react-foodgalaxy/assets/images/Food-Resturant-1.png"
                 alt="Food-Resturant-1"
               />
             </div>

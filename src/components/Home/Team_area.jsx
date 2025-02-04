@@ -14,7 +14,7 @@ const Team_area = () => {
             <div className="team-boxes">
               <div className="team-box">
                 <div className="team-img">
-                  <img src="/assets/images/team1.jpg" alt="team1" />
+                  <img src="/react-foodgalaxy/assets/images/team1.jpg" alt="team1" />
                   <div className="team-icon">
                     <ul>
                       <li>
@@ -44,7 +44,7 @@ const Team_area = () => {
               </div>
               <div className="team-box">
                 <div className="team-img">
-                  <img src="/assets/images/team2.jpg" alt="team2" />
+                  <img src="/react-foodgalaxy/assets/images/team2.jpg" alt="team2" />
                   <div className="team-icon">
                     <ul>
                       <li>
@@ -74,7 +74,7 @@ const Team_area = () => {
               </div>
               <div className="team-box">
                 <div className="team-img">
-                  <img src="/assets/images/team3.jpg" alt="team3" />
+                  <img src="/react-foodgalaxy/assets/images/team3.jpg" alt="team3" />
                   <div className="team-icon">
                     <ul>
                       <li>

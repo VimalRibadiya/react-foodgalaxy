@@ -14,7 +14,7 @@ const Food_stories = () => {
                 <div className="food-stories-box">
                   <div className="food-stories-img">
                     <img
-                      src="/assets/images/style3-service2.jpg"
+                      src="/react-foodgalaxy/assets/images/style3-service2.jpg"
                       alt="style3-service2.jpg"
                     />
                   </div>
@@ -34,7 +34,7 @@ const Food_stories = () => {
                 <div className="food-stories-box">
                   <div className="food-stories-img">
                     <img
-                      src="/assets/images/style3-service2.jpg"
+                      src="/react-foodgalaxy/assets/images/style3-service2.jpg"
                       alt="style3-service2.jpg"
                     />
                   </div>

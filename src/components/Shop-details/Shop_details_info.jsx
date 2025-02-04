@@ -9,7 +9,7 @@ const Shop_details_info = () => {
             <div className="shop-detail-col">
               <div className="shop-detail-img">
                 <img
-                  src="/assets/images/style3-service1.jpg"
+                  src="/react-foodgalaxy/assets/images/style3-service1.jpg"
                   alt="style3-service1"
                 />
               </div>

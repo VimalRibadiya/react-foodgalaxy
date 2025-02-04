@@ -30,7 +30,7 @@ const Footer = () => {
               </div>
               <div class="footer-col">
                 <div class="mid-heading-title">
-                  <img src="/assets/images/footer-logo.png" alt="footer-logo" />
+                  <img src="/react-foodgalaxy/assets/images/footer-logo.png" alt="footer-logo" />
                 </div>
                 <div class="mid-link-desc">
                   <div class="item">
@@ -86,22 +86,22 @@ const Footer = () => {
             <div className="footer-bottom-col">
               <div className="card-img">
                 <a href="#">
-                  <img src="assets/images/card1.jpg" alt="card1" />
+                  <img src="/react-foodgalaxy/assets/images/card1.jpg" alt="card1" />
                 </a>
                 <a href="#">
-                  <img src="assets/images/card2.jpg" alt="card1" />
+                  <img src="/react-foodgalaxy/assets/images/card2.jpg" alt="card1" />
                 </a>
                 <a href="#">
-                  <img src="assets/images/card3.jpg" alt="card3" />
+                  <img src="/react-foodgalaxy/assets/images/card3.jpg" alt="card3" />
                 </a>
                 <a href="#">
-                  <img src="assets/images/card4.jpg" alt="card4" />
+                  <img src="/react-foodgalaxy/assets/images/card4.jpg" alt="card4" />
                 </a>
                 <a href="#">
-                  <img src="assets/images/card5.jpg" alt="card5" />
+                  <img src="/react-foodgalaxy/assets/images/card5.jpg" alt="card5" />
                 </a>
                 <a href="#">
-                  <img src="assets/images/card6.jpg" alt="card6" />
+                  <img src="/react-foodgalaxy/assets/images/card6.jpg" alt="card6" />
                 </a>
               </div>
             </div>

@@ -18,7 +18,7 @@ const Shop_review = () => {
                 <i class="fa-solid fa-star"></i>
               </div>
               <div className="review-img">
-                <img src="/assets/images/review-1-1.jpg" alt="review-1-1" />
+                <img src="/react-foodgalaxy/assets/images/review-1-1.jpg" alt="review-1-1" />
               </div>
               <div class="review-comment">
                 <h2>Michael jordan</h2>
@@ -42,7 +42,7 @@ const Shop_review = () => {
                 <i class="fa-solid fa-star"></i>
               </div>
               <div className="review-img">
-                <img src="/assets/images/review-1-2.jpg" alt="review-1-1" />
+                <img src="/react-foodgalaxy/assets/images/review-1-2.jpg" alt="review-1-1" />
               </div>
               <div class="review-comment">
                 <h2>Angel Jara</h2>

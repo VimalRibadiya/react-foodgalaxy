@@ -13,25 +13,25 @@ const Menu_main = () => {
             </div>
             <div className="menu-item-inner">
               <div className="menu-item">
-                <img src="/assets/images/feature-1.jpg" alt="feature-1" />
+                <img src="/react-foodgalaxy/assets/images/feature-1.jpg" alt="feature-1" />
                 <div className="menu-text">
                   <h4>PIZZA</h4>
                 </div>
               </div>
               <div className="menu-item">
-                <img src="/assets/images/feature-2.jpg" alt="feature-2" />
+                <img src="/react-foodgalaxy/assets/images/feature-2.jpg" alt="feature-2" />
                 <div className="menu-text">
                   <h4>BURGER</h4>
                 </div>
               </div>
               <div className="menu-item">
-                <img src="/assets/images/feature-3.jpg" alt="feature-3" />
+                <img src="/react-foodgalaxy/assets/images/feature-3.jpg" alt="feature-3" />
                 <div className="menu-text">
                   <h4>KIDS MENU</h4>
                 </div>
               </div>
               <div className="menu-item">
-                <img src="/assets/images/feature-4.jpg" alt="feature-4" />
+                <img src="/react-foodgalaxy/assets/images/feature-4.jpg" alt="feature-4" />
                 <div className="menu-text">
                   <h4>COMBO</h4>
                 </div>

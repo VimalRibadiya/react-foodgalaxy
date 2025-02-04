@@ -8,16 +8,16 @@ const Main_banner = () => {
         <div className="container">
           <div className="main-inner">
             <div className="leaf1">
-              <img src="/assets/images/leaf1.png" alt="leaf1" />
+              <img src="/react-foodgalaxy/assets/images/leaf1.png" alt="leaf1" />
             </div>
             <div className="leaf2">
-              <img src="/assets/images/leaf2.png" alt="leaf2" />
+              <img src="/react-foodgalaxy/assets/images/leaf2.png" alt="leaf2" />
             </div>
             <div className="leaf3">
-              <img src="/assets/images/leaf3.png" alt="leaf3" />
+              <img src="/react-foodgalaxy/assets/images/leaf3.png" alt="leaf3" />
             </div>
             <div className="leaf4">
-              <img src="/assets/images/leaf4.png" alt="leaf4" />
+              <img src="/react-foodgalaxy/assets/images/leaf4.png" alt="leaf4" />
             </div>
             <div className="main-col">
               <div className="item left-col">
@@ -39,7 +39,7 @@ const Main_banner = () => {
               <div className="item right-col">
                 <div className="item-inner">
                   <img
-                    src="/assets/images/hero-thumb.png"
+                    src="/react-foodgalaxy/assets/images/hero-thumb.png"
                     alt="hero-thumb"
                     className="herothumb"
                   />

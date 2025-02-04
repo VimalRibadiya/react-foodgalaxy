@@ -8,19 +8,19 @@ const Brand_area = () => {
         <div className="container">
           <div className="brand-area-inner">
             <div className="col">
-              <img src="/assets/images/brand1.png" alt="brand1" />
+              <img src="/react-foodgalaxy/assets/images/brand1.png" alt="brand1" />
             </div>
             <div className="col">
-              <img src="/assets/images/brand2.png" alt="brand2" />
+              <img src="/react-foodgalaxy/assets/images/brand2.png" alt="brand2" />
             </div>
             <div className="col">
-              <img src="/assets/images/brand3.png" alt="brand3" />
+              <img src="/react-foodgalaxy/assets/images/brand3.png" alt="brand3" />
             </div>
             <div className="col">
-              <img src="/assets/images/brand4.png" alt="brand4" />
+              <img src="/react-foodgalaxy/assets/images/brand4.png" alt="brand4" />
             </div>
             <div className="col none">
-              <img src="/assets/images/brand5.png" alt="brand5" />
+              <img src="/react-foodgalaxy/assets/images/brand5.png" alt="brand5" />
             </div>
           </div>
         </div>

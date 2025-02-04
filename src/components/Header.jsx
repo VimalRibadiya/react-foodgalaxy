@@ -50,7 +50,7 @@ const Header = () => {
             <div className="header-col-1">
               <a href="#">
                 <img
-                  src="assets/images/dreamhub-logo.png"
+                  src="/react-foodgalaxy/assets/images/dreamhub-logo.png"
                   alt="dreamhub-logo"
                 />
               </a>
