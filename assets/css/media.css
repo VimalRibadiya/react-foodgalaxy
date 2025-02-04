@@ -1,0 +1,466 @@
+@media (max-width: 1200px) {
+  .container {
+    max-width: 1100px;
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  /* start main banner  */
+
+  .main-banner .main-inner .right-col .item-inner .herothumb {
+    width: 450px;
+  }
+  .main-banner .main-inner .left-col h1 {
+    font-size: 50px;
+  }
+  .main-banner .main-inner .left-col .text {
+    font-size: 14px;
+  }
+
+  /* end main banner  */
+
+  /* start service area */
+
+  .service-main .service-inner .service-item-col .inner-item h4 {
+    font-size: 27px;
+    line-height: 35px;
+  }
+  .service-main .service-inner .service-item-col .inner-item p {
+    width: 100%;
+  }
+  /* end service area */
+
+  /* start deliver area */
+
+  .deliver-main .deliver-inner .imgnoodles {
+    display: none;
+  }
+
+  /* end deliver area */
+
+  /* start contact-area  */
+
+  .contact-area-main .contact-area-inner .align-items-center {
+    flex-wrap: wrap;
+  }
+  .contact-area-main .contact-area-inner .align-items-center .contact-col {
+    width: 100%;
+  }
+
+  /* end contact-area  */
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+  /* start main banner  */
+
+  .header-main {
+    position: relative;
+  }
+  .header-inner #sidebar {
+    width: 100%;
+  }
+  .header-inner .header-col-2 .header-menu ul .hideonmobile {
+    display: none;
+  }
+  .header-inner .header-col-2 .header-menu ul .sidebar-button {
+    display: block;
+  }
+  .header-inner #sidebar .header-col-2 .header-menu ul li {
+    border-bottom: 1px solid rgb(104, 102, 102);
+    width: 100%;
+    margin-left: 0;
+    padding-left: 40px;
+  }
+
+  .main-banner .main-inner .right-col .item-inner .herothumb {
+    width: 350px;
+  }
+  .main-banner .main-inner .left-col h1 {
+    font-size: 40px;
+  }
+  .main-banner .main-inner .right-col {
+    top: 25%;
+  }
+
+  /* end main banner  */
+
+  /* start menu area */
+
+  .menu-main .menu-inner .menu-item-inner {
+    flex-wrap: wrap;
+  }
+  .menu-main .menu-inner .menu-item-inner .menu-item {
+    width: 50%;
+  }
+  /* end menu area */
+
+  /* start service area */
+
+  .service-main .service-inner {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .service-main .service-inner .service-item-col {
+    width: 50%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+  }
+
+  /* end service area */
+
+  /* start shop area  */
+
+  .shop-main .shop-inner .shop-items {
+    flex-wrap: wrap;
+  }
+  .shop-main .shop-inner .shop-items .col {
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  /* end shop area  */
+
+  /* start product menu area */
+
+  .product-menu-main .product-menu-inner .product-menu-items1 {
+    flex-wrap: wrap;
+  }
+  .product-menu-main .product-menu-inner .product-menu-items2 {
+    flex-wrap: wrap;
+  }
+  .product-menu-main .product-menu-inner .product-menu-items1 .col {
+    width: 50%;
+  }
+  .product-menu-main .product-menu-inner .product-menu-items2 .col {
+    width: 50%;
+  }
+  /* end product menu area */
+
+  /* start team area */
+
+  .team-area-main .team-area-inner .team-boxes {
+    flex-wrap: wrap;
+  }
+  .team-area-main .team-area-inner .team-boxes .team-box {
+    width: 100%;
+    padding: 20px 0;
+  }
+
+  /* end team area */
+
+  /* start brand area */
+
+  .brand-area-main .brand-area-inner .col {
+    width: 25%;
+  }
+  .brand-area-main .brand-area-inner .none {
+    display: none;
+  }
+
+  /* end brand area */
+  .about-service-main .about-service-inner{
+    flex-wrap: wrap;
+  }
+  .about-service-main .about-service-inner .service-col {
+    width: 100%;
+    margin: 10px 10px;
+  }
+  .shop-detail-info .shop-detail-inner{
+    flex-wrap: wrap;
+  }
+  .shop-detail-info .shop-detail-inner .shop-detail-col {
+    width: 100%;
+    margin: 0 10px;
+  }
+}
+
+@media (max-width:576px){
+  .container {
+    max-width: 540px;
+  }
+  .main-banner .main-inner .leaf1,
+  .leaf2,
+  .leaf3,
+  .leaf4 {
+    display: none;
+  }
+  .menu-main .menu-inner .menu-item-inner .menu-item {
+    width: 100%;
+    margin: 15px 0;
+  }
+  .service-main .service-inner .service-item-col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .deliver-main .deliver-inner .deliver-shap1,
+  .deliver-shap2,
+  .deliver-shap3,
+  .deliver-shap4 {
+    display: none;
+  }
+  .client-main .client-inner .tomato1,
+  .tomato2,
+  .tomato3,
+  .tomato4 {
+    display: none;
+  }
+  .about-service-main .about-service-inner{
+    flex-wrap: wrap;
+  }
+  .about-service-main .about-service-inner .service-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .contact-us-area-main .contact-us-area-inner{
+    flex-wrap: wrap;
+  }
+  .contact-us-area-main .contact-us-area-inner .contact-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .shop-detail-info .shop-detail-inner{
+    flex-wrap: wrap;
+  }
+  .shop-detail-info .shop-detail-inner .shop-detail-col {
+    width: 100%;
+    margin: 0 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container {
+    max-width: 380px;
+  }
+  .header-inner .header-col-1 a img {
+    width: 70%;
+  }
+  .main-banner .main-inner .leaf1,
+  .leaf2,
+  .leaf3,
+  .leaf4 {
+    display: none;
+  }
+  .main-banner .main-inner .item {
+    width: 100%;
+    top: 10%;
+  }
+  .main-banner .main-inner .left-col h1 {
+    font-size: 30px;
+  }
+  .main-banner .main-inner .right-col {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 7%;
+  }
+
+  .menu-main .menu-inner .menu-item-inner .menu-item {
+    width: 100%;
+    margin: 15px 0;
+  }
+  .service-main .service-inner .service-item-col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .service-main .service-inner .service-item-col .inner-item h4 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .portfolio-main .portfolio-inner .portfolio-title h3 {
+    font-size: 20px;
+  }
+  .portfolio-main .portfolio-inner .inner-img {
+    flex-wrap: wrap;
+  }
+  .portfolio-main .portfolio-inner .inner-img .col {
+    width: 100%;
+    margin: 10px;
+    padding: 20px;
+  }
+  .shop-main .shop-inner .shop-title h3 {
+    font-size: 20px;
+  }
+  .shop-main .shop-inner .shop-items .col {
+    width: 100%;
+  }
+  .product-menu-main .product-menu-inner .product-menu-title h3 {
+    font-size: 20px;
+  }
+  .product-menu-main .product-menu-inner .product-menu-items1 .col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .product-menu-main .product-menu-inner .product-menu-items2 .col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .deliver-main .deliver-inner .deliver-shap1,
+  .deliver-shap2,
+  .deliver-shap3,
+  .deliver-shap4 {
+    display: none;
+  }
+  .deliver-main .deliver-inner .deliver-text-outer .deliver-text h2 {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .team-area-main .team-area-inner .team-title h3 {
+    font-size: 20px;
+  }
+  .brand-area-main .brand-area-inner .col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .client-main .client-inner .tomato1,
+  .tomato2,
+  .tomato3,
+  .tomato4 {
+    display: none;
+  }
+  .client-main .client-inner .client-title h3 {
+    font-size: 20px;
+  }
+  .contact-area-main
+    .contact-area-inner
+    .align-items-center
+    .contact-col
+    .contact-box {
+    margin-left: 10px;
+  }
+  .contact-area-main
+    .contact-area-inner
+    .align-items-center
+    .contact-col
+    .contact-box
+    .contact-title
+    h4 {
+    font-size: 20px;
+  }
+  .main-footer .footer-top .footer-inner .footer-col {
+    width: 100%;
+    padding: 30px 0;
+  }
+  .main-footer .footer-top .footer-inner .footer-col .left-heading-title {
+    text-align: center;
+  }
+  .main-footer .footer-top .footer-inner .footer-col .left-link-desc ul li {
+    text-align: center;
+  }
+  .main-footer .footer-top .footer-inner .footer-col .right-heading-title {
+    text-align: center;
+  }
+  .main-footer .footer-top .footer-inner .footer-col .right-link-desc ul li {
+    text-align: center;
+  }
+  .footer-bottom-main .footer-bottom-inner .footer-bottom-col {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .footer-bottom-main
+    .footer-bottom-inner
+    .footer-bottom-col
+    .copyright-text
+    p {
+    text-align: center;
+  }
+  .footer-bottom-main .footer-bottom-inner .footer-bottom-col .card-img {
+    text-align: center;
+  }
+  .about-banner-main .about-banner-inner .about-banner-content h1 {
+    font-size: 40px;
+  }
+  .about-service-main .about-service-inner{
+    flex-wrap: wrap;
+  }
+  .about-service-main .about-service-inner .service-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .about-service-main .about-service-inner .service-col .service-content h4 {
+    font-size: 25px;
+  }
+  .service-banner-main .service-banner-inner .service-banner-content h1 {
+    font-size: 40px;
+  }
+  .food-stories-main .food-stories-inner .food-stories-title h3 {
+    font-size: 20px;
+  }
+  .food-stories-main .food-stories-inner .food-stories-item{
+    flex-wrap: wrap;
+  }
+  .food-stories-main .food-stories-inner .food-stories-item .food-stories-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .counter-area-main .counter-area-inner .counter-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .counter-area-main
+    .counter-area-inner
+    .counter-col
+    .counter-content
+    .counter-number
+    h2 {
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 700;
+  }
+  .team-main .team-inner .team-content h1 {
+    font-size: 40px;
+  }
+  .contact-main .contact-inner .contact-content h1 {
+    font-size: 40px;
+  }
+  .contact-us-area-main .contact-us-area-inner{
+    flex-wrap: wrap;
+  }
+  .contact-us-area-main .contact-us-area-inner .contact-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .shop-banner-main .shop-banner-inner .shop-banner-content h1 {
+    font-size: 40px;
+  }
+  .shop-detail-banner-main
+    .shop-detail-banner-inner
+    .shop-detail-banner-content
+    h1 {
+    font-size: 40px;
+  }
+  .shop-detail-info .shop-detail-inner{
+    flex-wrap: wrap;
+  }
+  .shop-detail-info .shop-detail-inner .shop-detail-col {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .shop-detail-info .shop-detail-inner .shop-detail-col .shop-detail h3 {
+    font-size: 25px;
+  }
+  .shop-detail-info
+    .shop-detail-inner
+    .shop-detail-col
+    .shop-details-social
+    .shop-details-social-title {
+    margin-bottom: 10px;
+  }
+  .review-content {
+    text-align: right;
+    line-height: 30px;
+  }
+  .review-main .review-inner .review-content .review-icon {
+    position: static;
+  }
+  .review-main .review-inner .review-content .review-img {
+    margin-right: 0px;
+    float: 0;
+  }
+}
