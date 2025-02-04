@@ -1225,7 +1225,7 @@ ul {
 
 .main-footer .footer-top {
   display: block;
-  background-image: url("/react-foodgalaxy/assets/images/footer\ thumb.jpg");
+  background-image: url("../images/footer\ thumb.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;

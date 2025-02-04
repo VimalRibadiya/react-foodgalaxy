@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Service from "./components/Service";
 import Team from "./components/Team";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Contact_us from "./components/Contact_us";
 import Shop_main from "./components/Shop_main";
 import Shop_details from "./components/Shop_details";
@@ -14,7 +14,7 @@ import Shop_details from "./components/Shop_details";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <BrowserRouter >
+    <HashRouter >
       <Header />
       <Routes>
         <Route path="/" element={ <Home/> } />
@@ -26,6 +26,6 @@ root.render(
         <Route path="/components/Shop_details" element={ <Shop_details/> } />
       </Routes>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   </>
 );
