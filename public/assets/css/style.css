@@ -604,6 +604,7 @@ a {
 .product-menu-main .product-menu-inner .product-menu-items1 {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .product-menu-main .product-menu-inner .product-menu-items1 .col {
@@ -635,6 +636,8 @@ a {
 
 .product-menu-main .product-menu-inner .product-menu-items2 {
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 30px;
 }
 
