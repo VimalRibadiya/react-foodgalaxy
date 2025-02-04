@@ -297,6 +297,9 @@
     width: 100%;
     padding: 10px 0;
   }
+  .product-menu-main .product-menu-inner .product-menu-items2 {
+    margin-left: 24px;
+  }
   .product-menu-main .product-menu-inner .product-menu-items2 .col {
     width: 100%;
     padding: 10px 0;
