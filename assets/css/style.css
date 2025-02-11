@@ -3,7 +3,26 @@
   padding: 0;
   font-family: "Montserrat", sans-serif;
 }
-
+.pre-loader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: beige;
+}
+.loader {
+  width: 30px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 8px solid lightblue;
+  border-right-color: orange;
+  animation: l2 1s infinite linear;
+}
+@keyframes l2 {
+  to {
+    transform: rotate(1turn);
+  }
+}
 li {
   list-style: none;
 }
@@ -142,7 +161,7 @@ a {
 .header-inner .header-col-2 .header-menu .header-icons ul li {
   margin-left: 16px;
 }
-.header-inner #sidebar{
+.header-inner #sidebar {
   position: absolute;
   top: 0;
   right: 0;
@@ -151,15 +170,15 @@ a {
   z-index: 999;
   background-color: white;
 }
-.header-inner #sidebar ul{
+.header-inner #sidebar ul {
   display: flex;
   flex-direction: column;
   width: 100%;
 }
-.header-inner #sidebar ul li{
+.header-inner #sidebar ul li {
   width: 100%;
 }
-.header-inner #sidebar ul li a{
+.header-inner #sidebar ul li a {
   text-decoration: none;
   color: #000000;
   width: 100%;
@@ -169,19 +188,19 @@ a {
   padding: 20px;
 }
 .fa-solid.fa-plus {
-	float: right;
-	padding-right: 30px;
+  float: right;
+  padding-right: 30px;
 }
 .fa-solid.fa-minus {
-	float: right;
-	padding-right: 30px;
+  float: right;
+  padding-right: 30px;
   display: none;
 }
 
-.header-inner #sidebar ul #pages-sub-menu{
+.header-inner #sidebar ul #pages-sub-menu {
   display: none;
-} 
-.header-inner #sidebar ul #shop-sub-menu{
+}
+.header-inner #sidebar ul #shop-sub-menu {
   display: none;
 }
 /* header section end*/
@@ -225,7 +244,7 @@ a {
   top: 60%;
   left: 42%;
 }
-.main-banner .main-inner .main-col{
+.main-banner .main-inner .main-col {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1397,7 +1416,6 @@ ul {
 .about-banner-main .about-banner-inner {
   display: flex;
   align-items: center;
-  
 }
 .about-banner-main .about-banner-inner .about-banner-content {
   margin: 180px 0;
@@ -1524,7 +1542,10 @@ ul {
   margin: 0 10px;
   transition: 0.3s;
 }
-.food-stories-main .food-stories-inner .food-stories-item .food-stories-col:hover {
+.food-stories-main
+  .food-stories-inner
+  .food-stories-item
+  .food-stories-col:hover {
   transform: scale(1.02);
 }
 .food-stories-main
