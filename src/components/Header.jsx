@@ -129,7 +129,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <Link to="/">Home</Link>
+                  <Link to="/" onClick={hidesidebar}>Home</Link>
                 </li>
                 <li>
                   <a href="#">
@@ -137,18 +137,18 @@ const Header = () => {
                   </a>
                   <ul id="pages-sub-menu">
                     <li>
-                      <Link to="/components/Service">Service</Link>
+                      <Link to="/components/Service" onClick={hidesidebar}>Service</Link>
                     </li>
                     <li>
-                      <Link to="/components/Team">Team</Link>
+                      <Link to="/components/Team" onClick={hidesidebar}>Team</Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <Link to="/components/About">About</Link>
+                  <Link to="/components/About" onClick={hidesidebar}>About</Link>
                 </li>
                 <li>
-                  <Link to="/components/Contact_us">Contact Us</Link>
+                  <Link to="/components/Contact_us" onClick={hidesidebar}>Contact Us</Link>
                 </li>
                 <li>
                   <a href="#">
@@ -156,10 +156,10 @@ const Header = () => {
                   </a>
                   <ul id="shop-sub-menu">
                     <li>
-                      <Link to="/components/Shop_main">Shop</Link>
+                      <Link to="/components/Shop_main" onClick={hidesidebar}>Shop</Link>
                     </li>
                     <li>
-                      <Link to="/components/Shop_details">Shop Details</Link>
+                      <Link to="/components/Shop_details" onClick={hidesidebar}>Shop Details</Link>
                     </li>
                   </ul>
                 </li>
